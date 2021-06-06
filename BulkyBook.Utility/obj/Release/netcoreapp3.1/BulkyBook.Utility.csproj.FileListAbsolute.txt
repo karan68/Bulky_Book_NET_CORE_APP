@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\DELL\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.pdb
